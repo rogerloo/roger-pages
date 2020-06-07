@@ -1,0 +1,36 @@
+{
+  "name": "roger-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "roger-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/rogerloo/roger-pages#readme",
+  "bugs": {
+    "url": "https://github.com/rogerloo/roger-pages/issues"
+  },
+  "license": "MIT",
+  "author": "rogerloo <970869394@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerloo/roger-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
